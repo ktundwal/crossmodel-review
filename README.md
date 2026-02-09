@@ -2,8 +2,6 @@
 
 A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) that gets you a second opinion on your work by sending it to frontier models from Google and OpenAI via GitHub Copilot CLI, then synthesizing the results.
 
-Inspired by the [PAL MCP Server](https://github.com/BeehiveInnovations/pal-mcp-server) clink pattern, but focused on doing one thing well: cross-model code review.
-
 ## How it works
 
 1. Discovers available models from your Copilot CLI
